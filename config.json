@@ -1,0 +1,14 @@
+{
+    "model_path": "C:\\Users\\harku\\OneDrive\\Desktop\\PhishEye\\backend\\backend\\models\\phishing_model.pkl",
+    "vectorizer_path": "C:\\Users\\harku\\OneDrive\\Desktop\\PhishEye\\backend\\backend\\models\\vectorizer.pkl",
+    "backend_url": "http://localhost:5000",
+    "dataset": {
+        "urls_path": "C:\\Users\\harku\\OneDrive\\Desktop\\PhishEye\\data\\urls.csv",
+        "labels_path": "C:\\Users\\harku\\OneDrive\\Desktop\\PhishEye\\data\\urls.csv"
+    },
+    "server": {
+        "host": "127.0.0.1",
+        "port": 5000,
+        "debug_mode": true
+    }
+}
